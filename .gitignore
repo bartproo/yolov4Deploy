@@ -1,0 +1,5 @@
+venv
+*.cfg
+*.weights
+data/yolov4.weights
+data/yolov4.cfg
